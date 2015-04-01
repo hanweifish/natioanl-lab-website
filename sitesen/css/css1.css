@@ -1,0 +1,13 @@
+a:link{color:#08206A;font-size:9pt;text-decoration:none}
+a:visited{color:#08206A;font-size:9pt;text-decoration:none}
+a:active{color:orange;font-size:9pt;text-decoration:none}
+a:hover{color:#CC3333;font-size:9pt;text-decoration:underline}
+hr{filter:alpha(style=3);width:100%;height:2;color:blue}
+.img{border:solid 1 white;filter:alpha(style=2)}
+.img2{border:solid 1 white;filter:alpha(style=3)}
+.img3 {}
+p{
+	font-size:9pt;
+	color:black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}

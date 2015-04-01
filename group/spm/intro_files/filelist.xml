@@ -1,0 +1,6 @@
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../intro.htm" tppabs="http://vl-ssm.nju.edu.cn/group/spm/intro.htm"/>
+ <o:File HRef="javascript:if(confirm('http://vl-ssm.nju.edu.cn/group/spm/intro_files/image001.png  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?'))window.location='http://vl-ssm.nju.edu.cn/group/spm/intro_files/image001.png'" tppabs="http://vl-ssm.nju.edu.cn/group/spm/intro_files/image001.png"/>
+ <o:File HRef="image002.jpg" tppabs="http://vl-ssm.nju.edu.cn/group/spm/intro_files/image002.jpg"/>
+ <o:File HRef="filelist.xml" tppabs="http://vl-ssm.nju.edu.cn/group/spm/intro_files/filelist.xml"/>
+</xml>

@@ -1,0 +1,48 @@
+.noprint, table#global {display: none;}
+
+a:link {color: #003399; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+a:visited {color: #cc3333; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+a:active {color: #cc0000; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+a.printurl:after {content: " ["attr(href)"]"}
+a.printrelurl:after {content: " [http://www.cam.ac.uk"attr(href)"]"}
+
+body {background-color: #ffffff; color: #000000;}
+
+p, ul, ol, li, table, td, dt, dd, span.noshow {font-family: 'Trebuchet MS', Arial, Helvetica,
+sans-serif;  font-size: 100%;}
+pre, tt {font-family: Courier, monospace; font-size: 100%;}
+li {padding: 2px 0 2px  0;}
+
+table#bread {display: none}
+p.small {font-size: 90%;}
+p.smallc {font-size: 90%; text-align:center; font-weight: bold;}
+p.foot {font-size: 110%; text-align:center;}
+div.c3 {text-align: center}
+p.colour { font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:
+110%; border: none; width: 100%; background: #99ccff; text-align: center;}
+
+.bigb {font-size: 110%; font-weight: bold;} 
+.small {font-size: 90%;}
+.deptitle {font-size: 140%; color: #000000; font-weight: bold;}
+.title {font-size: 130%; color: #990000; font-weight: bold;}
+.center {text-align:center;}
+.footer {font-size: 80%; margin: 6px 0 6px  0;}
+.smallc {font-size: 90%; text-align:center; font-weight: bold;}
+.smallem {font-size: 90%; font-style:italic;}
+span.noshowsmall {font-size: 90%;}
+br.pagebreak {page-break-before: always}
+
+h1 {font-weight: bold; font-size: 120%; color: #990000; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+h2 {font-weight: bold; font-size: 110%; color: #333333; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+h2.lsp {font-weight: bold; font-size: 110%; color: #333333; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; margin: 6px
+0 2px 0;}
+h3 {font-weight: bold; font-style: italic; font-size: 100%; color: #333333; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+h4 {font-weight: bold; font-size: 90%; color: #333333; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+h5 {font-weight: bold; font-size: 80%; color: #333333; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;}
+
+div.box {width: 90%; padding: 10px; border: 2px solid #0099cc;}
+div.docbox {width: 80%; padding: 5px; border: 1px solid #003366; text-align: center; font-size: 90%; margin: auto;}
+
+/* new left-hand nav correction to remove need for spacer gif */
+p.newnav {display: none;}
+span.newactivenav {display: none;}
